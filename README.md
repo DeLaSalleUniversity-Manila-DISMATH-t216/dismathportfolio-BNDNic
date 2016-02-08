@@ -87,6 +87,30 @@ The Rules of Inference are:
 
 The Methods of Proof are:
 - Direct Proof
+  1. Assume p is TRUE
+  2. Show that q is also TRUE based on step 1
 - Proof by Contraposition (Indirect)
+  1. Assume ¬q ≡ T
+  2. Show that ¬p is also TRUE based on step 1 
 - Vacuous and Trivial Proof
+  1. If ¬p is FALSE then p→q must be TRUE 
+    ¬p
+    ∴p→q
+  2. If q is TRUE then p→q must also be TRUE 
+    q
+    ∴p→q
 - Proof by Contradiction
+  1. Assume that the Premise is NOT TRUE
+  2. Show that step 1 will end up in a Contradiction
+
+##Week 4
+
+#####Methods of Proof 
+
+- Proof by Equivalence
+  1. p ↔ q ≡ (p → q) → (q → p)
+
+#####Mathematical Induction 
+
+- The Basis Step is proving the given statement for the first natural number.
+- The Inductive Step is proving that the given statement for any one natural number implies the given statement for the next natural number.
