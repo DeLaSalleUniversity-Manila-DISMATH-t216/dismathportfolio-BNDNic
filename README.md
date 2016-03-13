@@ -169,3 +169,12 @@ The next Method of Proof that were discussed are:
 - Two ways of searching algorithms were taught to us. 
 - The linear search sample program is a one by one search tool. 
 - Binary search algorithm is a little faster than linear search.
+
+##Week 9
+
+- Binary search was discussed to the class.
+- Iteration is needed when we are doing pseudo codes and it is a big help if we want to make sure that what we are doing is correct.
+- Bubble sort algorithm was taught to the class. It sorts numbers according to order and this is arranged by comparing adjacent elements.
+- Insertion sort algorithm was discussed. The first element and the second element are compared to one another and if the second element is smaller than the first element, place it before the first element. This goes on until everything is arranged.
+- Greedy Algorithm was discussed. At each step, it selects the best choice.
+- And growth of functions was discussed. This is described using the Big-O notation.
