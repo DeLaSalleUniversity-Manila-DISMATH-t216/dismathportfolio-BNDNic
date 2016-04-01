@@ -178,3 +178,34 @@ The next Method of Proof that were discussed are:
 - Insertion sort algorithm was discussed. The first element and the second element are compared to one another and if the second element is smaller than the first element, place it before the first element. This goes on until everything is arranged.
 - Greedy Algorithm was discussed. At each step, it selects the best choice.
 - And growth of functions was discussed. This is described using the Big-O notation.
+
+##Week 10
+
+- Binary search was discussed and the class was taught how iteration is necessary when we are creating pseudo codes, and how it helps us see if there is a mistake in what we did.
+- Bubble Sort Algorithm was also discussed to the class and it is sorting numbers according to order. It is also arranged by comparing elements that are adjacent.
+- Insertion Sort Algorithm was also discussed to the class and it is done by comparing the first element to the second element and if the second element is smaller, place it before the first element. This goes on until all the elements are sorted.
+- The class was also introduced to Greedy Algorithm, it selects the best choice at each step. 
+- Growth of Functions was discussed to the class and it is described using Big-O notation.
+
+##Week 11
+
+- Big-Omega and Big-Theta were introduced to the class. Big-Omega is for the lower bound and Big-Theta is for both the higher bound and lower bound.
+- Algorithm Time Complexity was discussed to the class together with the complexity of algorithms.
+- Division (div) and Modulo (mod) Operator was also discussed. Division (div) is the quotient Q, and modulo (mod) is the remainder r. It was told to us that r should always be greater than zero. 
+- The connection and the use of these operators was also discussed to the class for us to know why we are discussing these.
+- Cryptology was also discussed and this is the study of secret messages.
+- Caesar's Encryption method was discussed and this is done by moving each letter three letters forward in the alphabet to make it secret.
+
+##Week 12
+
+- We didn't have any meeting this week because it was Holy Week.
+
+##Week 13
+
+- Graph Theory was discussed to the class. Graphs are discrete structures that consist of vertices and edges that connect these vertices.
+- Some of the applications are for Networks, Job assignments, representing computational models, telephone network, social network, etc.
+- The degree of the vertex in an undirected graph is the number of edges incident with it and a loop that is located at a vertex is twice the degree of the vertex.
+- Hand Shaking Theorem was also discussed to the class. And a subgraph is the same as subset.
+- We also discussed Euler Circuit and Euler Path. A Euler Circuit is where you can pass on every edge or bridge only once and get back to the starting node and a Euler path is to pass every edge once, but it is not required to return to the starting node. All of Euler Circuits are Euler Paths, but not all Euler Paths are Euler Circuits.
+- Hamiltonian Paths and Hamilton Circuits were also discussed. Its difference from Euler is that you need to pass every node once only this doesn't mean that we need to pass all edges or bridges. Path is passing all nodes only once and a circuit is to return to where you started.
+- Matrices of Graphs, Isomorphism of Graphs, and Euler's Formula were also discussed. The formula to get the number of regions of a graph is: r = e - v + 2, where e is the number of edges and v is the number of vertices of the graph.
