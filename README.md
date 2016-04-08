@@ -209,3 +209,16 @@ The next Method of Proof that were discussed are:
 - We also discussed Euler Circuit and Euler Path. A Euler Circuit is where you can pass on every edge or bridge only once and get back to the starting node and a Euler path is to pass every edge once, but it is not required to return to the starting node. All of Euler Circuits are Euler Paths, but not all Euler Paths are Euler Circuits.
 - Hamiltonian Paths and Hamilton Circuits were also discussed. Its difference from Euler is that you need to pass every node once only this doesn't mean that we need to pass all edges or bridges. Path is passing all nodes only once and a circuit is to return to where you started.
 - Matrices of Graphs, Isomorphism of Graphs, and Euler's Formula were also discussed. The formula to get the number of regions of a graph is: r = e - v + 2, where e is the number of edges and v is the number of vertices of the graph.
+
+##Week 14
+
+- Graph coloring was discussed to the class. Using graph coloring, you can see if two nodes are adjacent or not.
+- Recycling of colors is important in graph coloring. Chromatic number is what you call the minimum number of colors that you must get.
+- The theorem that states that for a planar graph, the chromatic number must be less than or equal to four is called the four color theorem.
+- A graph with a complete loop is called a cycle. If it has three nodes, it must have 3 colors, otherwise it has three colors for graph coloring.
+- Tree was also discussed to the class. It is a connected undirected graph without simple circuits.
+- The class was also introduced to rooted tree, properties of trees, ordered rooted tree, and m-ary tree.
+- Modeling computation was also discussed to the class.
+- Grammar is used to see generate words in a language and to see if a word is in a language.
+- A compiler reads a program then translates it to another language 
+- Finite-state machines was also discussed.
